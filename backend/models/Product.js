@@ -17,7 +17,8 @@ const productSchema = new mongoose.Schema({
     reviews:[{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Review',
-    }]
+    }],
+    viewcount: Number,
 }, { timestamps: true });
 
 module.exports = mongoose.model('Product', productSchema);
