@@ -43,7 +43,7 @@ Follow these instructions to set up the project locally.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/sellsphere.git
+   git clone https://github.com/Tanujshriyan/sellsphere.git
    cd sellsphere
    ```
 
@@ -61,10 +61,8 @@ Follow these instructions to set up the project locally.
 
 4. Create a `.env` file in the root directory with the following variables:
    ```
-   PORT=5000
+   PORT=27017
    MONGO_URI=mongodb://localhost:27017/sellsphere
-   JWT_SECRET=your_jwt_secret
-   JWT_EXPIRE=30d
    NODE_ENV=development
    ```
 
@@ -185,9 +183,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+<!-- ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information. -->
 
 ## Contact
 
