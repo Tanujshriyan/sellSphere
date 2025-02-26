@@ -191,9 +191,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+[Tanuj Shriyan](https://www.linkedin.com/in/tanjshx/) - [@tanj.shx](https://twitter.com/tanj.shx) - tanj.shx@gmail.com
 
-Project Link: [https://github.com/yourusername/sellsphere](https://github.com/yourusername/sellsphere)
+
+Project Link: [https://github.com/Tanujshriyan/sellSphere](https://github.com/Tanujshriyan/sellSphere)
 
 ## Acknowledgments
 
