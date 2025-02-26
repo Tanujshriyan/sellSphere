@@ -12,10 +12,10 @@ const OrderSchema = new mongoose.Schema({
         },
         quantity: Number,
     }],
-    paymentIntent: {
-        type: mongoose.Schema.Types.objectId,
+    paymentIntent: [{
+        type: mongoose.Schema.Types.ObjectId,
         ref: 'Payment',
-    },
+    }],
     address: {
         street: String,
         city: String,
